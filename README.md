@@ -37,6 +37,6 @@ LOC8R IS A TERMINAL-BASED LOCATION PHISHING TOOL THAT GENERATES A CLEAN AND CONV
 
 ```bash
 git clone https://github.com/xcn1ck2/Loc8r.git
-unzip loc8r
+unzip loc8r.zip
 cd Loc8r
 python Loc8r.py

@@ -41,4 +41,5 @@ cd Loc8r
 ls
 unzip loc8r.zip
 cd Loc8r
+pip install -r req.txt
 python Loc8r.py
